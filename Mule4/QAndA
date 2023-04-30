@@ -1,0 +1,35 @@
+1. Explain Features added on Mule 4 Runtime Manager and how it is different to Mule 3?
+
+
+
+2. Explain DLB vs SLB in Cloudhub 1.0 anypoint runtime?
+
+
+
+3. In Cloudhub 2.0 - explain features and talk about private space vs shared space
+
+
+4. How do you to on-premise datacenter to applications deployed on Cloudhub 2.0 or cloudhub 1.0?
+
+
+
+5. Things to consider while defining or designing new  system integration ?
+
+
+6. Talk about Mule 4 Streaming
+
+
+7. what are security measures you can handle and how do you do it?
+
+
+8. Which tools do you use to monitor,analyze and measure peformance of api's on anypoint platform, talk about each one?
+
+
+9. Explain design patterns and how those are implemented in Mule 4?
+
+
+10. What is API flexgateway and how it works?
+
+11. Anypoint community manager, talk about if worked on it?
+
+12. what is difference between runtime fabric ,cloudhub and cloudhub 2.0
